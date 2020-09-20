@@ -44,9 +44,9 @@
 #include "include/Vibrator.h"
 #include "VibratorPatterns.h"
 
-extern "C" {
+/*extern "C" {
 #include "libsoc_helper.h"
-}
+}*/
 
 namespace aidl {
 namespace android {
